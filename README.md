@@ -37,15 +37,15 @@ Vector 클래스를 이용하여 덱을구현 랜덤함수를 이용하여 난�
 
 ## 게임 진행  
 #### 메인화면  
-<img src="https://user-images.githubusercontent.com/48575996/72766052-c9ce6700-3c32-11ea-903d-cebbcfaa6e82.png" width="50%"></img>
+<img src="https://user-images.githubusercontent.com/48575996/72766052-c9ce6700-3c32-11ea-903d-cebbcfaa6e82.png" width="70%"></img>
   
 #### 게임 시작  
 유저의 이름과 게임의 배팅금을 입력  
-<img src="https://user-images.githubusercontent.com/48575996/72766066-e7033580-3c32-11ea-9308-72bf0971746a.png" width="50%"></img>
+<img src="https://user-images.githubusercontent.com/48575996/72766066-e7033580-3c32-11ea-9308-72bf0971746a.png" width="70%"></img>
   
 #### 카드 분배  
-<img src="https://user-images.githubusercontent.com/48575996/72766147-17e36a80-3c33-11ea-90b3-fac23b769a39.png" width="50%"></img>
+<img src="https://user-images.githubusercontent.com/48575996/72766147-17e36a80-3c33-11ea-90b3-fac23b769a39.png" width="70%"></img>
   
 #### 승자 결정  
-<img src="https://user-images.githubusercontent.com/48575996/72766639-17979f00-3c34-11ea-80f0-33f67a590375.png" width="50%"></img>
+<img src="https://user-images.githubusercontent.com/48575996/72766639-17979f00-3c34-11ea-80f0-33f67a590375.png" width="70%"></img>
   
